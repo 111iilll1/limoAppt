@@ -25,12 +25,6 @@ DEBIAN_FRONTEND=noninteractive apt install -y \
   nginx \
   mariadb-server \
   unzip \
-  curl \  
-  build-essential \
-  net-tools \
-  htop \
-  vim \
-  zip \  
   wget \
   git \
   software-properties-common \
